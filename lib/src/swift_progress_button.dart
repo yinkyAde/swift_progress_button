@@ -39,7 +39,7 @@ class _SwiftProgressButtonState extends State<SwiftProgressButton> {
   Widget build(BuildContext context) {
     return SizedBox(
         width: widget.buttonWidth,
-        height: widget.buttonWidth,
+        height: widget.buttonHeight,
         child: Container(
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(widget.buttonRadius),
