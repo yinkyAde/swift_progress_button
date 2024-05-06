@@ -50,6 +50,6 @@ For more advanced usage and customization options, refer to the example director
 
 ## Additional information
 
-* GitHub Repository: example/swift_progress_button
+* GitHub Repository: https://github.com/yinkyAde/swift_progress_button.git
 * Issues and Contributions: We welcome any feedback or contributions from the community. Please report any issues or submit pull requests through the GitHub repository.
 
