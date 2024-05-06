@@ -8,7 +8,9 @@ Swift Progress Button is a Flutter widget designed to display a customizable but
 
 <img width="434" alt="Screenshot 2024-05-06 at 1 56 44 pm" src="https://github.com/yinkyAde/swift_progress_button/assets/50271975/3885d767-c835-4d4a-984c-aa4b91ea67b2">  
 
-https://github.com/yinkyAde/swift_progress_button/raw/master/assets/Screen%20Recording%202024-05-06%20at%201.58.57%20pm.mp4
+
+https://github.com/yinkyAde/swift_progress_button/assets/50271975/cc62f0a9-6ce2-4b9b-bb58-bc3d8f0cf41f
+
 
 
 ## Description
