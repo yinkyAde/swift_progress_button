@@ -2,6 +2,12 @@
 
 Swift Progress Button is a Flutter widget designed to display a customizable button with progress indicator functionality, suitable for use in various UI scenarios.
 
+## Screenshot and video
+
+<img width="434" alt="Screenshot 2024-05-06 at 1 56 44 pm" src="https://github.com/yinkyAde/swift_progress_button/assets/50271975/3885d767-c835-4d4a-984c-aa4b91ea67b2">
+
+
+
 ## Description
 
 Swift Progress Button simplifies the implementation of buttons with loading indicators in Flutter applications. It offers a customizable button widget that can seamlessly transition between normal and loading states, providing visual feedback to users during asynchronous tasks.
